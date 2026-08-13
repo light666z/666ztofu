@@ -1,7 +1,7 @@
-# 01 — Positioning (draft — awaiting final approval)
+# 01 — Positioning (locked)
 
 Sources: `00-interview-answers.md` + verified competitor page review (partial) + owner clarification answers  
-Status: **draft — awaiting final approval** (clarifications resolved; do not treat as locked until owner confirms)
+Status: **locked** — owner approved. Do not revise without an explicit new prompt.
 
 ---
 
@@ -137,4 +137,4 @@ Games may be chosen from multiple sources — not limited to one pipeline:
 
 ## Approval
 
-Reply **approve** (or send edits) to lock `01-positioning.md`. No next-phase work until then.
+**Approved and locked** by owner. No further phase work until a new prompt.

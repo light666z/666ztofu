@@ -1,15 +1,15 @@
-# 01 — Positioning (draft — awaiting approval)
+# 01 — Positioning (draft — awaiting final approval)
 
-Sources: `00-interview-answers.md` + verified competitor page review (partial; some sites blocked)  
-Status: **draft** — do not treat as locked until owner approves.
+Sources: `00-interview-answers.md` + verified competitor page review (partial) + owner clarification answers  
+Status: **draft — awaiting final approval** (clarifications resolved; do not treat as locked until owner confirms)
 
 ---
 
 ## Content mission (one sentence)
 
-SlotReviewLab helps Korean adults decide whether a featured slot is worth checking out by reviewing how it looks, sounds, and plays — design, theme, animations, features, mechanics, and overall feel — not whether it will pay out.
+SlotReviewLab helps Korean adults decide whether a featured slot is interesting or worth checking out based on its design, features, mechanics, theme, sound, and overall experience — not its potential winnings.
 
-> Concrete reader outcome: leave with a discovery judgment (“interesting to explore or not”) based on **experience characteristics**, not expected winnings.
+**Locked reader outcome:** a discovery judgment (“interesting / worth checking out or not”) driven by experience characteristics, not money outcomes.
 
 ---
 
@@ -42,11 +42,13 @@ Reviews are **experience-first**. The recommendation answers: *Is this game visu
 - Bonus features (including bonus buy when the game offers them)
 - Other notable or unique characteristics
 
-Recommendations are based on those characteristics — **not** on expected winnings, RTP, or maximum win potential as the reason to “try this game.”
+Recommendations are based on those characteristics — **not** on expected winnings, RTP, or maximum win potential as the reason to try a game.
 
-Specs such as RTP or max win may appear as factual context when useful, but they should not drive the verdict or the editorial angle.
+**Specs (secondary):** Include a small specs section when useful (e.g. RTP, max win, volatility, paylines). Treat it as factual reference only. Specs must not determine the recommendation.
 
-**Commercial boundary:** Display ads for existing sites may appear (e.g. sidebar banners/GIFs), but they stay separate from editorial content. Articles are not written to promote or recommend those sites.
+**Commercial boundary:** Display ads for existing sites may appear (e.g. sidebar banners/GIFs), but they stay separate from editorial content. Articles are not written to promote or recommend those sites. There is no direct CTA toward advertised sites inside editorial content.
+
+**On-site CTA:** After a review, invite readers to explore other SlotReviewLab articles or related game reviews.
 
 **Voice cue:** calm, playful, somewhat academic — informative and interesting without being overly serious, strict, or absolute.
 
@@ -58,7 +60,18 @@ From pages we could actually open, many Korean slot-review URLs lean on:
 - Demo embeds and short mechanic blurbs
 - Strong “where to play” / casino-bonus CTAs inside or beside the review
 
-Some pages also discuss theme, graphics, or sound — so experience coverage is not exclusive to SlotReviewLab. The difference we are aiming for is **consistent priority**: experience and feel lead the review and the recommendation; win metrics and operator promotion do not.
+Some pages also discuss theme, graphics, or sound — so experience coverage is not exclusive to SlotReviewLab. The difference we aim for is **consistent priority**: experience and feel lead the review and the recommendation; win metrics and operator promotion do not.
+
+---
+
+## Game selection (Phase 1)
+
+Games may be chosen from multiple sources — not limited to one pipeline:
+
+- Internal notes
+- Play experience
+- Interesting or new releases
+- Games with unique features or designs worth covering
 
 ---
 
@@ -68,13 +81,24 @@ Some pages also discuss theme, graphics, or sound — so experience coverage is 
 |------|----------------|
 | Topics | Non–slot-related topics pursued mainly for traffic/SEO |
 | Topics | Deep legality / access / “where to play” as a primary content focus (high-level care only; specifics later if needed) |
+| Formats | Explainers as a *major* launch focus (allowed only when they directly help readers understand or discover slot games; individual slot reviews remain the main format) |
 | Claims / CTAs | Guaranteed-win language, misleading probability claims, profit reliability implications |
 | Claims / CTAs | Recommendations framed around expected winnings, RTP, or max-win potential |
 | Claims / CTAs | In-article CTAs that promote or recommend our advertised existing sites |
 | Formats / commercial | Article content written around or affiliated with advertised sites (sidebar/banner display ads allowed but separate) |
 | Voice | Overly strict, absolute, or guarantee-style judgments |
 
-Related discovery content beyond single-game reviews may be considered later only if it helps readers discover and understand slot games — not assumed as a Phase 1 commitment here.
+---
+
+## Phase 1 content shape (locked from clarifications)
+
+| Decision | Stance |
+|----------|--------|
+| Main format | Individual slot reviews |
+| Related explainers | Allowed when they directly help discovery/understanding; not a major launch focus |
+| Specs box | Include when useful; keep secondary to the review; do not drive the verdict |
+| Primary CTA | Explore other SlotReviewLab articles / related reviews |
+| Ads | Separate from editorial; no in-article CTA to advertised sites |
 
 ---
 
@@ -101,10 +125,16 @@ Related discovery content beyond single-game reviews may be considered later onl
 
 ---
 
-## Clarification questions (still open)
+## Clarifications — resolved
 
-1. **Mission outcome:** Confirm locking “worth checking out based on experience” as the reader outcome — or adjust the wording?
-2. **“Featured” selection:** How do games get chosen for review in Phase 1 (notes list, new releases, play experience, provider shortlists, etc.)?
-3. **Phase 1 formats:** Reviews-only at launch, or light related explainers that support discovery too?
-4. **On-site CTA after a review:** What should readers be invited to do next on SlotReviewLab (another review, browse by theme/feature, nothing beyond the recommendation)?
-5. **Specs on the page:** If RTP / max win appear only as factual context (not recommendation drivers), should Phase 1 reviews include a small specs box, omit them unless needed, or decide case by case?
+1. **Mission outcome** — Confirmed: interesting / worth checking out based on design, features, mechanics, theme, sound, and overall experience — not potential winnings.
+2. **Game selection** — Notes, play experience, interesting/new releases, or unique features/designs; not limited to one source.
+3. **Formats** — Individual reviews are the main Phase 1 format; related explainers only when they directly help; not a major launch focus.
+4. **CTA** — Explore other SlotReviewLab articles / related reviews; no direct editorial CTA to advertised sites.
+5. **Specs** — Small specs section when useful; secondary; must not determine the recommendation.
+
+---
+
+## Approval
+
+Reply **approve** (or send edits) to lock `01-positioning.md`. No next-phase work until then.

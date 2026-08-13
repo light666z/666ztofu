@@ -1,8 +1,9 @@
-# 07 — Domain Readiness (advice only — do not purchase via this agent)
+# 07 — Domain Readiness (locked — advice only; domain not purchased)
 
-Sources: starter candidate domain(s); locked brand name **slotreviewlab** / **슬롯리뷰랩**  
-Status: **advisory** — you decide whether/when to buy  
-Agent constraint: **no purchase, registration, or hosting bind** performed here
+Sources: starter candidate domain(s); locked brand name **slotreviewlab** / **슬롯리뷰랩**; owner decisions  
+Status: **locked** — owner approved. Do not revise without an explicit new prompt.  
+Agent constraint: **no purchase, registration, hosting, DNS, or email setup**  
+Purchase state: **not purchased yet**
 
 ---
 
@@ -14,7 +15,7 @@ Starter block listed:
 |-----------|--------|
 | **slotreviewlab.com** | Only candidate supplied — evaluated below |
 
-No other domains were invented as “must buy.” Optional redirect TLDs are discussed only as a **later plan**, not as purchase instructions.
+No other domains were invented as “must buy.” A second/defensive TLD is **not recommended at this stage** (owner decision); 301 redirect guidance is kept for a possible later revisit only.
 
 ---
 
@@ -69,18 +70,20 @@ Keep **one canonical** site (recommend `https://slotreviewlab.com` if purchased)
 
 **Rules:** One sitemap / Search Console property on canonical; never duplicate the WordPress install on two TLDs; update internal links to canonical only.
 
-I am **not** recommending you must buy a second TLD now — only how to use one if you later want it.
+A second TLD is **not recommended at this stage** (owner decision). Guidance above is kept for a possible later revisit only.
 
 ---
 
-## Recommendation (advisory)
+## Recommendation (locked)
 
-| Role | Suggestion | Risks |
-|------|-------------|-------|
-| **Primary domain** | **`slotreviewlab.com`** — best fit to locked brand + `.com` blog default **if** registrar shows it available at a normal price | Availability unknown here; SlotReviewer lookalike confusion; gambling-niche domain reputation/email deliverability scrutiny later |
-| **Optional redirect candidate** | Only after primary is secured: consider a **defensive** registration for a high-risk mistype **you care about** (e.g. hyphenated form) — **ask me before I invent a specific second string to buy** | Extra renewal cost; unused domains still need calendar reminders |
+| Role | Decision | Risks |
+|------|----------|-------|
+| **Primary domain** | **`slotreviewlab.com`** — approved as the primary target to buy later when you choose | Availability must still be confirmed at a registrar; SlotReviewer lookalike confusion; gambling-niche domain reputation/email deliverability scrutiny later |
+| **Defensive second domain** | **Not added / not recommended at this stage.** Reconsider later only if needed. | Avoids extra renewal cost and invented mistype lists for now |
 
-**Readiness verdict:** Brand fit is **good enough to proceed to human purchase checks**. Technical readiness to *buy* depends on **your** WHOIS/price/conflict verification — this agent stops at advice.
+**Redirect guidance (kept):** If a second TLD is added later, use **301 → canonical** only; do not run a second content site. Prefer one canonical host (apex or `www`).
+
+**Readiness verdict:** Brand fit approved for `slotreviewlab.com` as primary. Purchase timing and registrar checks remain **your** decision. This agent does not purchase or bind infrastructure.
 
 ---
 
@@ -118,14 +121,17 @@ I am **not** recommending you must buy a second TLD now — only how to use one 
 
 ---
 
-## Clarification questions (optional — you decide timing)
+## Owner decisions recorded
 
-1. Proceed to buy **only** `slotreviewlab.com` if available, or do you want advice on a **specific** defensive second domain string (name it — I won’t invent one to push)?
-2. Any other candidate domains beyond the starter block to evaluate?
-3. Preference for canonical host later: apex `slotreviewlab.com` vs `www.slotreviewlab.com`?
+1. `07-domain-readiness.md` — **approved and locked**.
+2. Primary domain — **`slotreviewlab.com`**.
+3. No specific defensive second domain recommended at this stage; reconsider later if needed.
+4. Pre-purchase checklist — **kept as written**.
+5. 301 redirect guidance — **kept as written** (for a possible future second TLD).
+6. Domain — **not purchased yet**; no purchase, registration, hosting, DNS, or email setup by this agent.
 
 ---
 
-## Stop
+## Approval
 
-No purchase actions taken. **You** decide whether/when to buy.
+**Approved and locked** by owner. Domain remains unpurchased. No infrastructure actions until an explicit new prompt.

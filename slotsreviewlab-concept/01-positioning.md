@@ -1,16 +1,15 @@
 # 01 — Positioning (draft — awaiting approval)
 
-Source of truth: `00-interview-answers.md`  
-Status: **draft** — do not treat as locked until owner approves.  
-Rule: no invented competitor names or voice references (owner deferred those in Q16).
+Sources: `00-interview-answers.md` + verified competitor page review (partial; some sites blocked)  
+Status: **draft** — do not treat as locked until owner approves.
 
 ---
 
 ## Content mission (one sentence)
 
-SlotReviewLab helps Korean adults decide whether a featured slot is worth checking out by reviewing how it looks, sounds, and plays — design, theme, features, mechanics, and overall experience — not whether it will pay out.
+SlotReviewLab helps Korean adults decide whether a featured slot is worth checking out by reviewing how it looks, sounds, and plays — design, theme, animations, features, mechanics, and overall feel — not whether it will pay out.
 
-> Challenge note: “clear and interesting reviews” alone is too soft. The concrete reader outcome locked above is **a discovery decision** (“worth checking out or not”) based on **experience factors**, not money outcomes. Confirm or rewrite if that outcome is wrong.
+> Concrete reader outcome: leave with a discovery judgment (“interesting to explore or not”) based on **experience characteristics**, not expected winnings.
 
 ---
 
@@ -19,7 +18,7 @@ SlotReviewLab helps Korean adults decide whether a featured slot is worth checki
 | Dimension | Position |
 |-----------|----------|
 | Who | Korean adults interested in slot games who want interesting titles worth checking out |
-| Language / region | Reader-facing content primarily in natural Korean; primary target is Korean readers (South Korea market focus implied by language). Access is not geo-restricted. |
+| Language / region | Reader-facing content primarily in natural Korean; primary target is Korean readers. Access is not geo-restricted. |
 | Expertise level | Dual-access: beginners can follow; experienced readers still get useful detail. No assumed knowledge level; unfamiliar terms are explained when needed. |
 
 ### Who we are NOT for
@@ -32,47 +31,80 @@ SlotReviewLab helps Korean adults decide whether a featured slot is worth checki
 
 ## Differentiator
 
-A reader here gets an **experience-first recommendation**: whether the game is interesting to explore based on visual design, theme, sound/feedback, core features, mechanics, bonus features (including bonus buy when present), and other unique characteristics — without having to research each title themselves.
+**What SlotReviewLab consistently prioritizes** (not a claim that nobody else ever covers these things):
 
-What they should *not* get from an obvious competitor / generic niche blog pattern:
+Reviews are **experience-first**. The recommendation answers: *Is this game visually appealing, interesting, unique, or enjoyable to explore?* Criteria center on:
 
-- Reviews angled around win potential, deposit/bonus funnels, or “play here now” access guides
-- Absolute judgments presented as guarantees
-- Editorial copy written around or affiliated with advertised sites (display ads for existing sites may appear, but stay separate from review opinions)
+- Visual design and theme
+- Sound and feedback
+- Animations / overall feel
+- Mechanics and core features
+- Bonus features (including bonus buy when the game offers them)
+- Other notable or unique characteristics
 
-Voice cue (from interview, not a named competitor): calm, playful, somewhat academic — informative without being overly serious or overly strict/authoritative.
+Recommendations are based on those characteristics — **not** on expected winnings, RTP, or maximum win potential as the reason to “try this game.”
+
+Specs such as RTP or max win may appear as factual context when useful, but they should not drive the verdict or the editorial angle.
+
+**Commercial boundary:** Display ads for existing sites may appear (e.g. sidebar banners/GIFs), but they stay separate from editorial content. Articles are not written to promote or recommend those sites.
+
+**Voice cue:** calm, playful, somewhat academic — informative and interesting without being overly serious, strict, or absolute.
+
+### How this sits against verified KR review patterns
+
+From pages we could actually open, many Korean slot-review URLs lean on:
+
+- Spec-led framing (RTP, max win, ways)
+- Demo embeds and short mechanic blurbs
+- Strong “where to play” / casino-bonus CTAs inside or beside the review
+
+Some pages also discuss theme, graphics, or sound — so experience coverage is not exclusive to SlotReviewLab. The difference we are aiming for is **consistent priority**: experience and feel lead the review and the recommendation; win metrics and operator promotion do not.
 
 ---
 
 ## Out of scope for Phase 1
-
-Deliberately skip or deprioritize at launch:
 
 | Area | Phase 1 stance |
 |------|----------------|
 | Topics | Non–slot-related topics pursued mainly for traffic/SEO |
 | Topics | Deep legality / access / “where to play” as a primary content focus (high-level care only; specifics later if needed) |
 | Claims / CTAs | Guaranteed-win language, misleading probability claims, profit reliability implications |
-| Claims / CTAs | Aggressive gambling-promotion CTAs; recommendations based on ability to produce wins |
-| Formats / commercial | Article content written around or affiliated with advertised sites (sidebar/banner display ads for existing sites are allowed but separate) |
+| Claims / CTAs | Recommendations framed around expected winnings, RTP, or max-win potential |
+| Claims / CTAs | In-article CTAs that promote or recommend our advertised existing sites |
+| Formats / commercial | Article content written around or affiliated with advertised sites (sidebar/banner display ads allowed but separate) |
 | Voice | Overly strict, absolute, or guarantee-style judgments |
 
-Related slot-discovery content beyond single-game reviews may be considered later only if it helps readers discover and understand slot games — not assumed as a Phase 1 commitment here.
+Related discovery content beyond single-game reviews may be considered later only if it helps readers discover and understand slot games — not assumed as a Phase 1 commitment here.
 
 ---
 
 ## Sounds like / does not sound like
 
-**Deferred.** Interview Q16: no specific competitors or content styles to emulate or avoid yet; examples should be researched and discussed later rather than assumed now.
+**Inspiration / context only** — not models to copy, and not a complete competitor set. Based on pages we could verify; 슬롯나라 and 슬롯리그 were blocked (Cloudflare/timeouts) so they are omitted here.
 
-If you want this section filled, name 2–3 references (or approve a short research pass) before anything is invented.
+### Closer to “sounds like” (partial overlap worth noticing)
+
+| Reference | Why it’s useful context |
+|-----------|-------------------------|
+| **겜블유니온 / reachcasino slot guides** (e.g. Reactoonz 2 guide) | Experience/mood language around theme, visuals, and mechanics appears in the review body — closer to aesthetic exploration than a pure bonus list. Still sits inside a casino-community site, so not a template to copy. |
+| **OnlineCasino.co.kr game pages — body copy only** (e.g. Sugar Rush) | Long-form sections on symbols, features, graphics/sound, and pros/cons exist. Useful as proof that KR readers already see feature/experience detail *somewhere* on the page. |
+
+### Clearer “does not sound like” (patterns to avoid as the *lead*)
+
+| Reference | Pattern to avoid as SlotReviewLab’s editorial lead |
+|-----------|-----------------------------------------------------|
+| **OnlineCasino.co.kr slot pages overall** | Review page heavily structured around ranked casinos, bonuses, and “play here” CTAs; operator conversion sits beside (and often above) the game story. |
+| **1xonca game guides** (e.g. Captain Kraken Megaways) | Long educational outline interlaced with recurring bonus/affiliate banners and play CTAs; guide often framed through RTP/bonus/strategy-for-outcomes. |
+| **슬롯버프 individual game posts** (e.g. Soaked by Seamen) | Thin demo-first pages with a short blurb + RTP/max-win spec box; community/demo utility over a full experience-led recommendation. |
+
+**Bottom line for voice:** SlotReviewLab should read more like a careful game-experience write-up than a casino funnel page or a demo+spec stub — without pretending those other sites never mention design or features.
 
 ---
 
-## Clarification questions (need your call)
+## Clarification questions (still open)
 
-1. **Mission outcome:** Is “decide whether this slot is worth checking out (experience-based)” the reader outcome you want locked — or should the mission emphasize something else (e.g. only showcase/feature games, not help decide)?
-2. **“Featured” selection:** How do games get chosen for review in Phase 1 (your notes list, new releases, personal play experience, provider shortlists, etc.)?
-3. **Phase 1 formats:** At launch, are we **reviews-only**, or are light related formats (e.g. short explainers that support discovery) in scope from day one?
-4. **In-article CTA:** After a review, what should the reader be invited to do on-site (read another review, browse by theme/feature, nothing beyond the recommendation) — and what must we never CTA toward in Phase 1?
-5. **Differentiator stress-test:** If a typical Korean slot blog already lists features and screenshots, what must SlotReviewLab still do better every time (e.g. clearer “who this experience is for,” stronger sound/feel description, bonus-buy callouts, bilingual titles) so the differentiator stays concrete?
+1. **Mission outcome:** Confirm locking “worth checking out based on experience” as the reader outcome — or adjust the wording?
+2. **“Featured” selection:** How do games get chosen for review in Phase 1 (notes list, new releases, play experience, provider shortlists, etc.)?
+3. **Phase 1 formats:** Reviews-only at launch, or light related explainers that support discovery too?
+4. **On-site CTA after a review:** What should readers be invited to do next on SlotReviewLab (another review, browse by theme/feature, nothing beyond the recommendation)?
+5. **Specs on the page:** If RTP / max win appear only as factual context (not recommendation drivers), should Phase 1 reviews include a small specs box, omit them unless needed, or decide case by case?

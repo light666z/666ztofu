@@ -1,8 +1,8 @@
-# 04 — Voice & Brand Safety (draft — awaiting approval)
+# 04 — Voice & Brand Safety (locked)
 
 Sources: `00-interview-answers.md`, locked `01-positioning.md`, owner revision notes  
-Status: **draft** — stop for owner approval of the **DO / DON’T** list especially  
-Rule: do not invent undecided promo models or legality/access scope — ask instead
+Status: **locked** — owner approved. Do not revise without an explicit new prompt.  
+Rule: do not invent undecided promo models or legality/access scope without an explicit new prompt
 
 ---
 
@@ -44,7 +44,7 @@ Scale: **1 = low / minimal** → **5 = high / strong** (Phase 1 default in bold)
 
 ---
 
-## Hard DO / DON’T (brand safety) — needs your approval
+## Hard DO / DON’T (brand safety) — locked
 
 ### DO
 
@@ -70,27 +70,27 @@ Scale: **1 = low / minimal** → **5 = high / strong** (Phase 1 default in bold)
 - Invent screenshots, RTP, features, or play experiences you did not provide
 - Publish private individuals’ real names, contact details, or identifiable personal data unless there is a legitimate reason and appropriate permission
 
-### Privacy / people (approved direction)
+### Privacy / people (locked)
 
 - No private individuals’ real names, contact details, or identifiable personal data unless legitimate reason + appropriate permission
 - Do not drag unrelated third parties into reviews for color
 - Provider / studio / game names are fine (public product names)
 - User anecdotes: only if you supply them; strip identifiers unless permission supports naming
 
-### Affiliate / promo rules — Phase 1 clean
+### Affiliate / promo rules — Phase 1 clean (locked)
 
 **Phase 1:**
 - **Display ads** (banners/GIFs) for *your existing sites* may appear (e.g. sidebar), separate from editorial
-- Ads must not influence review accuracy or opinions
-- **No** in-article recommendation/CTA for those advertised sites
+- The existence of an advertisement must **not** influence editorial content, accuracy, or opinions
+- **No** promotional CTAs or recommendations for those advertised existing sites in the **article body**
+- **Allowed:** sitewide disclaimer/footer mentions of the advertising relationship or existing sites
 - **Allowed:** ordinary factual editorial mentions of games, providers, brands, and relevant products
 
 **Parked in Phase 2 (ask before enabling) — commercial placement, not normal mentions:**
 - Third-party casino/operator **affiliate** links inside articles
 - Sponsored posts / paid rankings / paid product placement
 - Productized “where to play” commercial modules
-- Exact scope of **legality / access** content (undecided — not a hard Phase 1 ban, not locked as “high-level only”)
-
+- Exact scope of **legality / access** content (**undecided** — owner has not defined Phase 1 scope yet; do not invent one)
 ---
 
 ## Preferred replacements (don’t → do)
@@ -120,14 +120,21 @@ Scale: **1 = low / minimal** → **5 = high / strong** (Phase 1 default in bold)
 
 ---
 
-## Clarification questions (remaining)
+## Owner decisions recorded
 
-1. **DO / DON’T list** — approve as revised above, or edit any line?
-2. **Display ads naming** — may articles never name the advertised existing sites at all, or is a sitewide disclaimer/footer mention OK while keeping body CTAs forbidden?
-3. **Legality / access** — when you’re ready, what Phase 1 stance do you want (omit entirely for now / allow limited high-level notes / define a specific allowed scope)? Until then it stays undecided/Phase 2 parking — not a locked DO restriction.
+1. DO / DON’T list — approved as revised.
+2. Display ads — sitewide disclaimer/footer mentions allowed; article body must not contain promotional CTAs or recommendations for advertised existing sites; ads must not influence editorial content.
+3. Legality / access — remains undecided / Phase 2; do not define scope yet.
+4. Byline — `슬롯리뷰랩 편집부`; About publication-focused; signature line none.
 
 ---
 
-## Approval gate
+## Clarification questions
 
-Please approve or amend the **DO / DON’T** list before this file is locked. No next-phase work until then.
+None open for Phase 1 voice/brand safety. Legality/access scope stays parked until a new prompt.
+
+---
+
+## Approval
+
+**Approved and locked** by owner. No next-phase work until an explicit new prompt.

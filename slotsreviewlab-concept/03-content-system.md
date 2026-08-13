@@ -1,7 +1,7 @@
-# 03 — Content System & First Posts (draft — Post 01 revision awaiting confirm)
+# 03 — Content System & First Posts (locked)
 
 Sources: locked `01-positioning.md`, locked `02-categories.md`, ops answers in `00-interview-answers.md`, owner cadence/list decisions  
-Status: **mostly approved** — confirm revised **Post 01** only; no article drafts yet  
+Status: **locked** — owner approved. Do not revise without an explicit new prompt. No article drafts until requested.  
 Language for length bands: **Korean character counts (공백 포함 대략치)**
 
 ---
@@ -68,20 +68,17 @@ Language for length bands: **Korean character counts (공백 포함 대략치)**
 
 ---
 
-## First-batch outlines (10 posts) — mix approved; Post 01 revised
+## First-batch outlines (10 posts) — locked
 
 **Mix:** reviews **7** · guides **2** · discover **1**  
 **Games:** placeholders kept until you provide titles separately.  
-**Post 08 timing (approved):** publish only after **at least 2–3** individual reviews exist.
+**Post 08 timing:** publish only after **at least 2–3** individual reviews exist.
 
-### Post 01 decision — revised (needs your confirm)
+### Post 01 — Guide (locked title)
 
-**Previous idea:** explain SlotReviewLab’s evaluation framework (“디자인·사운드·피처를 보는 법” as *our* lenses).  
-**Problem:** That overlaps the **static methodology page** and helps the brand more than a reader who just wants to discover interesting games.
+Practical discovery how-to for the reader’s taste — experience-first, not a site manifesto. (Methodology stays on the static 리뷰 기준 page.)
 
-**Revised Post 01 (recommended):** a practical discovery how-to for the reader’s taste — still experience-first, not a site manifesto.
-
-- **Working title:** `흥미로운 슬롯 찾는 법: 테마·연출·피처로 취향 고르기`
+- **Working title:** `흥미로운 슬롯 찾는 법: 테마·연출·피처로 내 취향에 맞는 게임 고르기`
 - **Category:** 슬롯 가이드 (`guides`)
 - **Format:** How-to explainer
 - **Outline:**
@@ -92,8 +89,6 @@ Language for length bands: **Korean character counts (공백 포함 대략치)**
   - Where to go next on-site: point to early reviews / later discover pieces (not operator links)
 - **Target length:** 2,500–3,200자
 - **Why month 1:** Directly serves discovery intent; leaves “how *we* review” to the static 리뷰 기준 page.
-
-**Why not keep the old Post 01:** It’s weaker as the *first* guide because methodology belongs on a static page you already preferred over a 랩 노트 series. A reader-facing “how to pick by taste/experience” guide earns the `guides` slot better in month 1.
 
 ---
 
@@ -179,11 +174,10 @@ Language for length bands: **Korean character counts (공백 포함 대략치)**
 3. First-10 mix **7 / 2 / 1** approved; game placeholders kept until provided separately.
 4. Post 08 after **≥2–3** reviews — approved.
 5. Standard anatomy — approved.
-6. Post 01 — **revised** toward reader discovery usefulness (below); awaiting confirm.
+6. Post 01 title locked as `흥미로운 슬롯 찾는 법: 테마·연출·피처로 내 취향에 맞는 게임 고르기` (outline unchanged).
 
 ---
 
-## Confirm to proceed
+## Approval
 
-1. **Post 01 revision** — approve `흥미로운 슬롯 찾는 법: 테마·연출·피처로 취향 고르기`, or request another angle?
-2. After that, say if you want `03-content-system.md` **locked** (still no article drafts until you ask).
+**Approved and locked** by owner. No article drafts until explicitly requested.

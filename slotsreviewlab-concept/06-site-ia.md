@@ -1,8 +1,8 @@
-# 06 — Site IA (Phase 1 WordPress) — draft awaiting approval
+# 06 — Site IA (Phase 1 WordPress) — locked
 
-Sources: locked `01`–`05` artifacts  
-Status: **draft** — stop for owner approval of **top nav** and **required pages**  
-Constraint: simple blog IA only — no app-like structure. Ask before inventing undecided pages.
+Sources: locked `01`–`05` artifacts + owner IA decisions  
+Status: **locked** — owner approved. Do not revise without an explicit new prompt.  
+Constraint: simple blog IA only — no app-like structure.
 
 ---
 
@@ -10,39 +10,32 @@ Constraint: simple blog IA only — no app-like structure. Ask before inventing 
 
 ```text
 /
-├── about/                         # 소개 (publication-focused)
-├── methodology/                   # 리뷰 기준 / 방법론 (static)
-├── privacy/                       # 개인정보처리방침
-├── disclaimer/                    # 고지 + advertising/editorial separation note
+├── about/                         # 소개 (publication-focused) — footer only
+├── methodology/                   # 리뷰 기준 / 방법론 (static) — footer
+├── privacy/                       # 개인정보처리방침 — footer
+├── disclaimer/                    # 고지 + advertising/editorial separation — footer
 ├── reviews/                       # 슬롯 리뷰 (category archive)
-│   └── {post-slug}/               # individual review posts*
 ├── guides/                        # 슬롯 가이드 (category archive)
-│   └── {post-slug}/
 ├── discover/                      # 슬롯 발견 (category archive)
-│   └── {post-slug}/
-└── (uncategorized avoided)        # do not use for launch content
+└── {post-slug}/                   # posts via /%postname%/ (not nested under category in URL)
 ```
-
-\*If WordPress permalinks are sitewide `/%postname%/`, posts live at root (`/sweet-bonanza-review/`) while category archives stay at `/reviews/`, `/guides/`, `/discover/`. That is the recommended default (see permalink section).
 
 **Tags** (theme, provider, bonus-buy, etc.): available on posts, **not** in top nav, **not** required as pretty landing hubs in Phase 1.
 
 ---
 
-## Top nav (Phase 1) — proposed short set
+## Top nav (Phase 1) — locked
 
 UI labels in Korean; paths in English:
 
-| Order | UI label | Path | Notes |
-|------:|----------|------|-------|
-| 1 | 슬롯 리뷰 | `/reviews/` | Locked category |
-| 2 | 슬롯 가이드 | `/guides/` | Locked category |
-| 3 | 슬롯 발견 | `/discover/` | Locked category |
+| Order | UI label | Path | EN note |
+|------:|----------|------|---------|
+| 1 | 슬롯 리뷰 | `/reviews/` | Slot Reviews |
+| 2 | 슬롯 가이드 | `/guides/` | Slot Guides |
+| 3 | 슬롯 발견 | `/discover/` | Slot Discovery |
 
-**Utility (not in the short top nav — link from footer / about):**  
-소개 (`/about/`), 리뷰 기준 (`/methodology/`)
-
-**Open ask:** Keep top nav to the **3 categories only** (recommended, matches locked `02`), or add **소개** as a 4th item?
+**Not in top nav:** 소개 (`/about/`) — footer only.  
+**Also footer-linked utilities:** 리뷰 기준 (`/methodology/`), 고지 (`/disclaimer/`), 개인정보 (`/privacy/`).
 
 ---
 
@@ -64,12 +57,12 @@ No shop, no social-app megamenu, no “play now” footer CTA block in Phase 1 e
 
 ## Required static pages at launch vs excluded
 
-### Required at launch (proposed)
+### Required at launch — locked
 
 | Page | Slug | Why |
 |------|------|-----|
-| 소개 | `about` | Locked: publication-focused About |
-| 리뷰 기준 | `methodology` | Locked: methodology as static page, not a category |
+| 소개 | `about` | Publication-focused About |
+| 리뷰 기준 | `methodology` | Methodology as static page, not a category |
 | 고지 / 면책 | `disclaimer` | Editorial independence + display-ad separation; non-guarantee stance |
 | 개인정보처리방침 | `privacy` | Standard for a public site with ads/analytics potential |
 
@@ -77,33 +70,30 @@ No shop, no social-app megamenu, no “play now” footer CTA block in Phase 1 e
 
 | Page / area | Why |
 |-------------|-----|
+| Contact (`/contact/`) | Excluded from Phase 1 by owner decision |
 | Shop / products / checkout | Not in positioning or monetization model |
 | In-article affiliate “where to play” hubs | Phase 2 parking; brand safety |
 | Provider hub index as nav section | Phase 2 parking (`02`) |
 | Dedicated theme browse nav | Tags only in Phase 1 |
 | Legality / access deep guide | Undecided / Phase 2 (`04`) |
 | Lab notes / blog-about-process category | Removed from launch categories |
-| Newsletter / membership portals | Not approved — **ask before adding** |
-| Contact | Mentioned only as a possible page type earlier — **not decided**. Propose **exclude from launch** unless you need a correction/tip form; ask below |
+| Newsletter / membership portals | Not approved |
 
 ---
 
-## Post URL pattern recommendation
+## Post URL pattern — locked
 
-**Recommend:** WordPress permalink  
-`/%postname%/`
+**Permalink:** `/%postname%/`
 
 **Rationale:** Stable, short, English-kebab slugs; avoids date-based churn; works with category archives at `/reviews/`, `/guides/`, `/discover/` without nesting every post under a category path.
 
-**Slug habit:** English kebab-case post slugs (e.g. `sweet-bonanza-review`, `how-to-choose-slots`) even when the on-page H1 is Korean — matches SEO map preference for stable paths.
+**Slug habit:** English kebab-case post slugs (e.g. `sweet-bonanza-review`, `how-to-choose-slots`) even when the on-page H1 is Korean.
 
-**Avoid for Phase 1:** `/%year%/%month%/%postname%/` (longer, weaker evergreen URLs for reviews).
+**Avoid for Phase 1:** `/%year%/%month%/%postname%/`.
 
 ---
 
 ## Homepage (boring blog home)
-
-Not a product app shell — a simple WP home:
 
 1. Brand + one-line mission (experience-first discovery)
 2. Latest posts
@@ -113,7 +103,7 @@ Not a product app shell — a simple WP home:
 
 ---
 
-## Phase 2 parking lot (not in launch nav)
+## Phase 2 parking lot (not in launch nav) — kept
 
 | Item | Notes |
 |------|-------|
@@ -121,23 +111,24 @@ Not a product app shell — a simple WP home:
 | Dedicated theme navigation | Use tags first |
 | Legality / access content scope | Undecided in `04` |
 | Operator / affiliate modules | Commercial placement parked |
-| Contact (if later needed) | Corrections, tips, press — only if you request |
+| Contact | Excluded in Phase 1; only if later requested |
 | Newsletter / community / shop | Not in Phase 1 |
 | Author personal bio pages | About stays publication-focused |
 | Nested category trees | Flat three categories only |
 
 ---
 
-## Clarification questions (approve nav + required pages)
+## Owner decisions recorded
 
-1. **Top nav:** Approve **3 items only** (리뷰 / 가이드 / 발견), or add **소개**?
-2. **Required pages:** Approve **about + methodology + disclaimer + privacy** as the launch static set?
-3. **Contact:** Exclude from Phase 1 (recommended), or include a simple `/contact/` page?
-4. **Disclaimer slug:** Keep `/disclaimer/`, or prefer `/disclosure/` / Korean-path exception (not recommended if we standardize on English paths)?
-5. **Permalink:** Approve `/%postname%/`?
+1. Top nav = **3 categories only**; 소개 via footer, not top nav.
+2. Required pages = `/about/` · `/methodology/` · `/disclaimer/` · `/privacy/`.
+3. `/contact/` excluded from Phase 1.
+4. Keep `/disclaimer/` slug.
+5. Permalink = `/%postname%/`.
+6. Phase 2 parking lot kept as written.
 
 ---
 
-## Approval gate
+## Approval
 
-Approve or edit **top nav** and **required pages** before locking. No next-phase work until then.
+**Approved and locked** by owner. No next-phase work until an explicit new prompt.

@@ -1,46 +1,40 @@
-# 03 — Content System & First Posts (draft — awaiting approval)
+# 03 — Content System & First Posts (draft — Post 01 revision awaiting confirm)
 
-Sources: locked `01-positioning.md`, locked `02-categories.md`, ops answers in `00-interview-answers.md`  
-Status: **draft** — stop for owner approval of **cadence** and **first-post list**  
-Language for length bands: **Korean character counts (공백 포함 대략치)** — matches primary site language
+Sources: locked `01-positioning.md`, locked `02-categories.md`, ops answers in `00-interview-answers.md`, owner cadence/list decisions  
+Status: **mostly approved** — confirm revised **Post 01** only; no article drafts yet  
+Language for length bands: **Korean character counts (공백 포함 대략치)**
 
 ---
 
-## Staffing reality (pushback)
+## Cadence (approved)
 
-Interview lock: AI-assisted drafts + **you** as final approver; daily is a *target*, not a requirement; quality and approval beat forced volume.
-
-**Pushback:** A true daily publish cadence (≈30 posts/month) with one human approver who must check facts, tone, and no-win-claim language is heroic—especially when reviews should draw on notes / play experience. AI can draft fast; **approval and source-checking cannot**.
-
-**Proposed realistic cadence (for approval):**
-
-| Item | Proposal |
-|------|----------|
-| Baseline | **3 published posts / week** (KST publishing window) |
-| Stretch | Up to **5 / week** only when an approved draft buffer exists |
-| Not default | Calendar-forced daily publishing |
-| Monthly target | **~12 posts / month** at baseline (≈13 if a 5-week span) |
+| Item | Locked decision |
+|------|-----------------|
+| Baseline | **3 published posts / week** (KST) |
+| Stretch | Faster pace (including optional daily) **only** with enough approved drafts buffered |
+| Not allowed | Forcing daily (or any higher pace) into low-quality or rushed content |
+| Monthly target | **~12 posts / month** at baseline |
 | Workflow | AI draft (concise, easy approve/reject) → your edit/approval → publish |
 | Buffer rule | Prefer 2–4 approved drafts queued before increasing pace |
 
-If you still want “daily” as the public aspiration, treat it as **best case after the buffer works**—not month-1 operating truth.
+**Staffing note (still true):** AI drafts fast; one human approver cannot fact-check and tone-check a forced daily queue without quality slip—hence baseline 3/week.
 
 ---
 
-## Content formats → category map
+## Content formats → category map (approved)
 
 | Format | What it is | Maps to | Notes |
 |--------|------------|---------|-------|
 | **Experience review** | Single-game, recommendation-first write-up based on design / theme / sound / feel / mechanics / bonus features | `reviews` | Default workhorse (~75% of volume) |
-| **How-to explainer** | Teaches a concept or evaluation lens so readers can discover/understand games better | `guides` | Not win strategy; keep minority share (~15%) |
-| **Observation curation** | Short multi-game list grouped by an experience angle (visuals, sound, unique feature, etc.) | `discover` | Discovery aid (~10%) |
-| **Light comparison** | Two (rarely three) games contrasted on feel/experience, not payout | `discover` | Same category as curation; alternate so `discover` doesn’t stall |
+| **How-to explainer** | Teaches a concept or discovery skill so readers can find/understand interesting games | `guides` | Not win strategy; keep minority share (~15%) |
+| **Observation curation** | Short multi-game list grouped by an experience angle | `discover` | Discovery aid (~10%) |
+| **Light comparison** | Two (rarely three) games contrasted on feel/experience, not payout | `discover` | Alternate with curation |
 
-**Not used as recurring article formats in Phase 1:** diary, personal memoir serial, “lab notes” process essays (methodology = **static page** if needed).
+**Not used as recurring article formats in Phase 1:** diary, memoir serial, “lab notes” process essays (methodology = **static page** if needed).
 
 ---
 
-## Length bands (Korean characters, spaces included)
+## Length bands (approved)
 
 | Format / category | Target band | Hard ceiling (reject/trim) |
 |-------------------|-------------|----------------------------|
@@ -48,8 +42,6 @@ If you still want “daily” as the public aspiration, treat it as **best case 
 | How-to explainer (`guides`) | **2,200–3,500자** | ~4,200자 |
 | Observation curation (`discover`) | **2,400–3,800자** | ~4,500자 |
 | Light comparison (`discover`) | **2,400–3,800자** | ~4,500자 |
-
-Keep body scannable on mobile: short sections, clear subheads, specs box secondary.
 
 ---
 
@@ -63,185 +55,135 @@ Keep body scannable on mobile: short sections, clear subheads, specs box seconda
 
 ---
 
-## Standard post anatomy (all formats)
+## Standard post anatomy (approved)
 
-5–8 beats — experience-first; no operator CTA inside editorial:
-
-1. **Hook + reader job** — what decision or understanding this post helps with (interesting / worth checking out, or how to evaluate X).
+1. **Hook + reader job** — what decision or understanding this post helps with.
 2. **Quick verdict or promise** — recommendation-first for reviews; learning outcome for guides; selection angle for discover.
 3. **Experience body** — theme/visuals, sound/feel, mechanics/features, bonus/bonus-buy when relevant; explain unfamiliar terms once.
-4. **Secondary specs (when useful)** — small factual box (RTP, max win, volatility, paylines, etc.); must not drive the verdict.
+4. **Secondary specs (when useful)** — factual box only; must not drive the verdict.
 5. **Who it suits / doesn’t** — taste and experience fit; no win promises.
 6. **Close** — restate the discovery judgment in calm, non-absolute language.
-7. **On-site next step** — link to related SlotReviewLab reviews/guides/discover pieces only (no in-article CTA to advertised sites).
-8. **Optional FAQ (2–4)** — only if it clarifies mechanics or evaluation; skip if padded.
+7. **On-site next step** — related SlotReviewLab articles only (no in-article CTA to advertised sites).
+8. **Optional FAQ (2–4)** — only if clarifying; skip if padded.
 
 ---
 
-## First-batch outlines (10 posts)
+## First-batch outlines (10 posts) — mix approved; Post 01 revised
 
-**Every launch category appears at least once.**  
-**Game titles for reviews/discover are provisional placeholders** — swap from your notes / play list before drafting. Do not treat bracketed names as locked picks.
+**Mix:** reviews **7** · guides **2** · discover **1**  
+**Games:** placeholders kept until you provide titles separately.  
+**Post 08 timing (approved):** publish only after **at least 2–3** individual reviews exist.
 
-Mix in this batch of 10: reviews **7** · guides **2** · discover **1** (70/20/10 — close to 75/15/10; month-1 full month can add 2 more reviews to hit 9/2/1).
+### Post 01 decision — revised (needs your confirm)
 
-### Post 01 — Guide (month-1 lens)
-- **Working title:** `경험으로 슬롯 고르기: 디자인·사운드·피처를 보는 법`
+**Previous idea:** explain SlotReviewLab’s evaluation framework (“디자인·사운드·피처를 보는 법” as *our* lenses).  
+**Problem:** That overlaps the **static methodology page** and helps the brand more than a reader who just wants to discover interesting games.
+
+**Revised Post 01 (recommended):** a practical discovery how-to for the reader’s taste — still experience-first, not a site manifesto.
+
+- **Working title:** `흥미로운 슬롯 찾는 법: 테마·연출·피처로 취향 고르기`
 - **Category:** 슬롯 가이드 (`guides`)
 - **Format:** How-to explainer
 - **Outline:**
-  - Why “흥미로운가” beats “고배당인가” as a reading goal here
-  - Five experience lenses (visual/theme, sound, animation/feel, mechanics, bonus features)
-  - How to use a small specs box without letting it decide
-  - What we won’t claim (wins, profit, guarantees)
-  - How to navigate from this guide into reviews / discover
+  - Reader job: quickly sense whether a game looks *interesting to try exploring* (not whether it pays)
+  - Practical signals while browsing: theme clarity, visual style, animation/sound cues, feature uniqueness, bonus-buy presence as a *pacing* choice
+  - Simple taste paths (e.g. story/theme-led vs spectacle-led vs mechanic-curious) — no rankings by RTP/max win
+  - Beginner pitfalls: confusing “복잡한 피처” with “나에게 재미,” ignoring sound/feel, chasing max-win headlines
+  - Where to go next on-site: point to early reviews / later discover pieces (not operator links)
 - **Target length:** 2,500–3,200자
-- **Why month 1:** Teaches the site’s evaluation language before the review library grows.
+- **Why month 1:** Directly serves discovery intent; leaves “how *we* review” to the static 리뷰 기준 page.
 
-### Post 02 — Review
+**Why not keep the old Post 01:** It’s weaker as the *first* guide because methodology belongs on a static page you already preferred over a 랩 노트 series. A reader-facing “how to pick by taste/experience” guide earns the `guides` slot better in month 1.
+
+---
+
+### Posts 02–10 (unchanged structure; placeholders remain)
+
+#### Post 02 — Review
 - **Working title:** `[게임 A] 리뷰: 테마와 첫인상이 경험을 잡아끄는가`
-- **Category:** 슬롯 리뷰 (`reviews`)
-- **Format:** Experience review
-- **Outline:**
-  - One-line experience verdict
-  - Theme / visual design
-  - Sound and feedback
-  - Core loop and notable features (bonus buy if present)
-  - Secondary specs + who it suits
-  - Related on-site links
+- **Category:** 슬롯 리뷰 · **Format:** Experience review
+- **Outline:** One-line verdict → theme/visuals → sound/feedback → core loop & features (bonus buy if any) → secondary specs + who it suits → related links
 - **Target length:** 3,000–4,000자
-- **Why month 1:** First full template proof of the experience-first review.
+- **Why month 1:** First full review template proof.
 
-### Post 03 — Review
+#### Post 03 — Review
 - **Working title:** `[게임 B] 리뷰: 연출·애니메이션이 지루하지 않은가`
-- **Category:** 슬롯 리뷰 (`reviews`)
-- **Format:** Experience review
-- **Outline:**
-  - Verdict focused on motion/feel
-  - Visual hierarchy and animation moments
-  - Audio pacing with spin/bonus
-  - Mechanics that support or undercut the spectacle
-  - Suits / doesn’t + specs secondary
+- **Category:** 슬롯 리뷰 · **Format:** Experience review
+- **Outline:** Motion/feel verdict → visual hierarchy & animation → audio pacing → mechanics vs spectacle → suits/doesn’t + specs
 - **Target length:** 3,000–4,000자
-- **Why month 1:** Shows “feel/animation” as a first-class review angle (not only feature lists).
+- **Why month 1:** Feel/animation as a first-class angle.
 
-### Post 04 — Review
+#### Post 04 — Review
 - **Working title:** `[게임 C] 리뷰: 보너스 구성이 탐험할 만한가`
-- **Category:** 슬롯 리뷰 (`reviews`)
-- **Format:** Experience review
-- **Outline:**
-  - Verdict on bonus structure as experience (not EV)
-  - Base game vs bonus contrast
-  - Bonus-buy presence/absence and how it changes the *feel* of exploring the game
-  - Clarity of rules / readability for beginners
-  - Close + related links
+- **Category:** 슬롯 리뷰 · **Format:** Experience review
+- **Outline:** Bonus-structure-as-experience verdict → base vs bonus → bonus-buy and pacing/feel → rule clarity → close + links
 - **Target length:** 3,000–4,200자
-- **Why month 1:** Covers bonus/bonus-buy as locked in-scope review content.
+- **Why month 1:** Bonus/bonus-buy in-scope coverage.
 
-### Post 05 — Guide
+#### Post 05 — Guide
 - **Working title:** `보너스 구매(Bonus Buy)란? 경험 관점에서 읽는 법`
-- **Category:** 슬롯 가이드 (`guides`)
-- **Format:** How-to explainer
-- **Outline:**
-  - Plain definition + when it appears
-  - What it changes in pacing/feel (not “이득인가”)
-  - How our reviews will describe it
-  - Beginner misunderstandings to avoid
-  - Pointers to reviews that discuss bonus buy
+- **Category:** 슬롯 가이드 · **Format:** How-to explainer
+- **Outline:** Definition → what it changes in pacing/feel (not EV) → how reviews will describe it → beginner misunderstandings → links to relevant reviews
 - **Target length:** 2,200–3,200자
-- **Why month 1:** Supports Posts 04+ and future reviews without making guides the main diet.
+- **Why month 1:** Supports bonus-buy discussion without making guides the main diet.
 
-### Post 06 — Review
+#### Post 06 — Review
 - **Working title:** `[게임 D] 리뷰: 사운드와 피드백이 테마를 살리는가`
-- **Category:** 슬롯 리뷰 (`reviews`)
-- **Format:** Experience review
-- **Outline:**
-  - Sound-led verdict
-  - Theme coherence (audio + visual)
-  - Feedback on wins/features without glamorizing profit
-  - Mechanics snapshot
-  - Suits / doesn’t
+- **Category:** 슬롯 리뷰 · **Format:** Experience review
+- **Outline:** Sound-led verdict → audio+visual coherence → feedback without glamorizing profit → mechanics snapshot → suits/doesn’t
 - **Target length:** 2,800–3,800자
-- **Why month 1:** Makes sound a visible differentiator in the early library.
+- **Why month 1:** Sound as visible early differentiator.
 
-### Post 07 — Review
+#### Post 07 — Review
 - **Working title:** `[게임 E] 리뷰: 규칙이 친절한가, 복잡한가`
-- **Category:** 슬롯 리뷰 (`reviews`)
-- **Format:** Experience review
-- **Outline:**
-  - Readability / beginner-friendliness verdict
-  - How features are taught in-game vs what we must explain
-  - Unique mechanics worth exploring
-  - Where complexity becomes charming vs tiring
-  - Specs secondary + related guide link
+- **Category:** 슬롯 리뷰 · **Format:** Experience review
+- **Outline:** Readability verdict → how features are taught → unique mechanics → complexity charming vs tiring → specs + related guide link
 - **Target length:** 3,000–4,000자
-- **Why month 1:** Serves dual audience (beginner-accessible, detail for experienced readers).
+- **Why month 1:** Dual audience (beginner-accessible + detail).
 
-### Post 08 — Discover
+#### Post 08 — Discover (**after ≥2–3 reviews**)
 - **Working title:** `첫인상으로 고르는 슬롯: 시각·테마가 다른 3작품`
-- **Category:** 슬롯 발견 (`discover`)
-- **Format:** Observation curation
-- **Outline:**
-  - Curation angle (first impression / visual-theme variety)—not a payout ranking
-  - Game 1 / 2 / 3 — each with 3–5 experience bullets + link to full review when live
-  - Who might prefer which direction
-  - Explicit: not “최고의 수익 슬롯”
-  - CTA to related reviews only
+- **Category:** 슬롯 발견 · **Format:** Observation curation
+- **Outline:** Curation angle (not payout) → Game 1/2/3 experience bullets + links to live reviews → who might prefer which → explicit non-profit framing → on-site CTA only
 - **Target length:** 2,600–3,600자
-- **Why month 1:** Opens the `discover` nav with a multi-game path; needs 3 titles from your list (can reuse reviewed games).
+- **Why month 1:** Opens `discover`; prefer reusing already-reviewed titles when possible.
 
-### Post 09 — Review
+#### Post 09 — Review
 - **Working title:** `[게임 F] 리뷰: 독특한 메커니즘이 재미로 이어지는가`
-- **Category:** 슬롯 리뷰 (`reviews`)
-- **Format:** Experience review
-- **Outline:**
-  - Uniqueness verdict (interesting to explore or gimmick-fatiguing)
-  - Mechanic explanation in plain Korean (+ EN term once)
-  - How theme/sound support the mechanic
-  - Bonus features if relevant
-  - Close without absolute guarantees
+- **Category:** 슬롯 리뷰 · **Format:** Experience review
+- **Outline:** Uniqueness verdict → plain-Korean mechanic explain → theme/sound support → bonus if relevant → non-absolute close
 - **Target length:** 3,000–4,200자
-- **Why month 1:** Aligns with selection rule “unique features or designs worth covering.”
+- **Why month 1:** “Unique features/designs worth covering.”
 
-### Post 10 — Review
+#### Post 10 — Review
 - **Working title:** `[게임 G] 리뷰: 다시 들여다볼 만한 경험이 있는가`
-- **Category:** 슬롯 리뷰 (`reviews`)
-- **Format:** Experience review
-- **Outline:**
-  - Replay-curiosity verdict (experience renewal—not “기댓값”)
-  - What stays interesting after the novelty minute
-  - Feature depth vs visual freshness
-  - Suits / doesn’t
-  - Batch closer linking back to guide + discover
+- **Category:** 슬롯 리뷰 · **Format:** Experience review
+- **Outline:** Replay-curiosity as experience (not EV) → what stays interesting → feature depth vs visual freshness → suits/doesn’t → links to guide + discover
 - **Target length:** 2,800–3,800자
-- **Why month 1:** Strengthens review majority and internal links across all three categories.
+- **Why month 1:** Reinforces review majority + cross-category links.
 
 ---
 
 ## Month-1 launch pages (not posts)
 
-Ship or stub alongside the batch if needed:
-
-- 리뷰 기준/방법론 (static)
+- 리뷰 기준/방법론 (static) — **site process lives here**, not as Post 01
 - 소개
 - Disclaimer (high-level)
 
-These do **not** count toward the 75/15/10 article mix.
+---
+
+## Owner decisions recorded
+
+1. Cadence **3/week** approved; daily = optional stretch only with buffer; no rushed quality.
+2. Length bands approved.
+3. First-10 mix **7 / 2 / 1** approved; game placeholders kept until provided separately.
+4. Post 08 after **≥2–3** reviews — approved.
+5. Standard anatomy — approved.
+6. Post 01 — **revised** toward reader discovery usefulness (below); awaiting confirm.
 
 ---
 
-## Decisions you must confirm
+## Confirm to proceed
 
-1. **Cadence:** Approve **3 posts/week (~12/month)** as baseline (stretch to 5 only with buffer)? Or name a different realistic number?
-2. **Daily target:** Keep as aspiration only, or do you still want month-1 scheduled daily despite the approval bottleneck?
-3. **Length bands:** OK as Korean character ranges above?
-4. **First 10 list:** Approve the outline set and format mix (7 reviews / 2 guides / 1 discover)?
-5. **Games:** Provide or assign real titles for `[게임 A]–[G]` and the 3 curation slots in Post 08 (from notes / play / new-or-unique picks). I will not invent final game choices without you.
-6. **Post 08 timing:** Publish after at least 2–3 reviews exist (recommended), or allow curation to land earlier with shorter blurbs?
-
----
-
-## Approval gate
-
-Reply with approvals/edits on **cadence** and **first-post list** (and games when ready).  
-No full article drafts until you approve.
+1. **Post 01 revision** — approve `흥미로운 슬롯 찾는 법: 테마·연출·피처로 취향 고르기`, or request another angle?
+2. After that, say if you want `03-content-system.md` **locked** (still no article drafts until you ask).

@@ -23,7 +23,7 @@ Rule: do not invent answers; wait for the owner’s response.
 ## Voice
 
 8. If the blog were a person explaining slots to a friend, how should it sound (pick a few words: calm, sharp, playful, strict, academic, street-smart, etc.) — and which of those must it avoid?
-9. How Korean should the voice feel: mostly natural Korean with English terms only when needed, or comfortably bilingual with English brand/game terms throughout?
+9. Since the primary audience is Korean, should the reader-facing content be primarily natural Korean, with English used when appropriate for game titles, brand names, technical terms, or commonly used terminology?
 10. On reviews, should the tone feel more like a lab report (criteria-first), a consumer guide (recommendation-first), or something else you can name?
 
 ## Topics

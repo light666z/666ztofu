@@ -1,7 +1,7 @@
-# 05 — SEO Map (draft — awaiting approval of primary keywords)
+# 05 — SEO Map (locked)
 
 Sources: locked `02-categories.md`, `03-content-system.md`, `04-voice-brand-safety.md` + owner keyword-class adjustments after demand research  
-Status: **draft** — stop for owner approval of **primary SEO keywords per category**  
+Status: **locked** — owner approved. Do not revise without an explicit new prompt.  
 Volume rule: **Do not invent or assign numerical search volumes.** Demand comments are qualitative only (open-web / SERP-pattern signals). Reliable KR MSV was not available.
 
 ---
@@ -78,7 +78,7 @@ Low-search editorial topics are **not removed** from content plans—they simply
 | Secondary / long-tail (also useful) | `보너스 구매 경험`, `Buy Feature 의미`, `슬롯 사운드 평가`, `슬롯 피처 보는 법`, `초보 슬롯 용어` | Informational |
 | **Editorial topic** (publish for value; not a primary SEO bet) | `흥미로운 슬롯 찾는 법` | Informational / brand teaching |
 
-**Note on Post 01:** Working title `흥미로운 슬롯 찾는 법: …` remains valid as **editorial/content** (locked in `03`). It is **not** promoted here as a primary organic traffic keyword.
+**Note on Post 01:** Working title `흥미로운 슬롯 찾는 법: …` remains valid as **editorial/content** (locked in `03`). It is **not** a primary organic traffic keyword.
 
 **Channel lean:** Feature/definition guides lean search; taste/editorial guides lean on-site + share.
 
@@ -90,7 +90,7 @@ Low-search editorial topics are **not removed** from content plans—they simply
 
 | Class | Keyword | Intent |
 |-------|---------|--------|
-| **Primary SEO** (topic/pair dependent) | `{게임 A} vs {게임 B}` | Informational |
+| **Primary SEO** (pair-dependent) | `{게임 A} vs {게임 B}` | Informational — **search potential depends on the popularity of the specific games compared**, not on the “vs” format itself |
 | **Primary SEO** (topic dependent) | `슬롯 비교` | Informational |
 | Secondary / long-tail | `시각적으로 독특한 슬롯`, `보너스 구매 있는 슬롯 모음` (experience framing), `사운드 좋은 슬롯` | Informational |
 | **Editorial topic** (publish for value; not a primary SEO bet) | `연출 좋은 슬롯` | Informational |
@@ -99,13 +99,13 @@ Low-search editorial topics are **not removed** from content plans—they simply
 
 ---
 
-## Revised primary SEO keyword list (for approval)
+## Approved primary SEO keyword list (locked)
 
 | Category | Primary SEO keywords | Not primary (kept in strategy) |
 |----------|----------------------|--------------------------------|
 | **슬롯 리뷰** | 1) `{게임명} 리뷰` 2) `{게임명} 슬롯 리뷰` | Variant: `{한국어명} 리뷰` when KR name is commonly used · other game long-tails as secondary |
 | **슬롯 가이드** | 1) `슬롯 보너스 구매` 2) `슬롯 고르는 법` | Secondary: `보너스 구매란` · Editorial topic: `흥미로운 슬롯 찾는 법` |
-| **슬롯 발견** | 1) `{게임 A} vs {게임 B}` 2) `슬롯 비교` | Editorial topic: `연출 좋은 슬롯` |
+| **슬롯 발견** | 1) `{게임 A} vs {게임 B}` (demand depends on the specific games’ popularity) 2) `슬롯 비교` | Editorial topic: `연출 좋은 슬롯` |
 
 ---
 
@@ -142,18 +142,20 @@ Still valid for both SEO-led and editorial posts:
 |----------|---------------------|---------------------|
 | Reviews | Search on game names + internal links | Strongest search-fit pattern (qualitative; no MSV) |
 | Guides | Search for stronger primaries + on-site teaching for editorial topics | Mixed |
-| Discover | Internal nav, related links, shares | Pair/비교 can be search targets; presentation lists mostly editorial |
+| Discover | Internal nav, related links, shares | `vs` demand is game-pair dependent; `슬롯 비교` topic-dependent; presentation lists mostly editorial |
 
 ---
 
-## Clarification questions
+## Owner decisions recorded
 
-1. Approve the **revised primary SEO keywords** in the table above?  
-2. Confirm `{한국어명} 리뷰` stays a **variant** (not a third always-on primary)?  
-3. Any brand variants to add/remove?
+1. Revised primary SEO keyword list — **approved**.
+2. Keep distinction: **Primary SEO** / **Secondary·long-tail** / **Editorial topics**.
+3. `{게임 A} vs {게임 B}` — do **not** assume the format itself has strong search demand; potential depends on compared games’ popularity.
+4. Editorial topics remain publishable for reader value; not major organic traffic drivers.
+5. No numerical search volumes invented or assigned.
 
 ---
 
-## Approval gate
+## Approval
 
-Approve or edit **primary SEO keywords** before locking `05-seo-map.md`. No next-phase work until then.
+**Approved and locked** by owner. No next-phase work until an explicit new prompt.

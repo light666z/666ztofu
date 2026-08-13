@@ -287,6 +287,19 @@ Human pre-purchase checklist remains in `07-domain-readiness.md`.
 
 ---
 
+## Definition of Done (Phase 1 concept pack)
+
+- Positioning locked (mission, audience, differentiator, Phase 1 constraints)
+- Categories: approved launch categories with slugs, purpose, and monthly mix
+- Content system locked (cadence, formats, length bands, first-batch outlines)
+- Voice and brand safety locked (tone, byline, DO/DON’T)
+- SEO map locked (primary / secondary / editorial keyword classes)
+- Site IA locked (URL tree, nav, required static pages, permalink)
+- Domain primary decided (`slotreviewlab.com`); purchase status recorded truthfully
+- `blog-brief-v1.md` compiled as handoff source of truth
+
+---
+
 ## Artifact index
 
 | File | Role |
